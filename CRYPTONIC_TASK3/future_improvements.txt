@@ -1,0 +1,5 @@
+Future Improvements:
+1. Implement real-time alerting with SIEM tools
+2. Automated threat intelligence feeds
+3. Machine learning-based anomaly detection
+4. Regular SOC drills and training

@@ -1,0 +1,11 @@
+Scenario 1: Brute Force Login
+- Detection: 10 failed login attempts within 5 minutes
+- Response: Lock account, alert SOC team, investigate source IP
+
+Scenario 2: Suspicious Data Access
+- Detection: Unusual large file download
+- Response: Suspend session, verify user identity, review logs
+
+Scenario 3: Unauthorized File Modification
+- Detection: System file modified unexpectedly
+- Response: Alert SOC, restore backup, identify attack vector

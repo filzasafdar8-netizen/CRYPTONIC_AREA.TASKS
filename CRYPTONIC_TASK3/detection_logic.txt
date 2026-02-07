@@ -1,0 +1,6 @@
+Detection Logic:
+
+1. Multiple failed login attempts within 5 minutes → Alert: Possible brute force
+2. Unusual login from new IP or country → Alert: Suspicious access
+3. Large data download from user account → Alert: Potential data exfiltration
+4. Unauthorized changes in system files → Alert: Integrity breach
